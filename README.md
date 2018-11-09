@@ -18,8 +18,8 @@ This will return a specific VMWare LAN Segment object with the value 'link005' f
 
 ## Reference
 
-    - [LAN Segments for VMware Workstation Pro on Windows](https://binarynature.blogspot.com/2018/02/lan-segments-vmware-workstation-windows.html)
-    - [Configuring LAN Segments](https://docs.vmware.com/en/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-DEE1E2F1-5DA4-4C83-B7C5-A1165C84C757.html)
+   - [LAN Segments for VMware Workstation Pro on Windows](https://binarynature.blogspot.com/2018/02/lan-segments-vmware-workstation-windows.html)
+   - [Configuring LAN Segments](https://docs.vmware.com/en/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-DEE1E2F1-5DA4-4C83-B7C5-A1165C84C757.html)
 
 ## License
 
