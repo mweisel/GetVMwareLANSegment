@@ -1,6 +1,6 @@
 # GetVMwareLANSegment
 
-A VMware LAN Segment PowerShell cmdlet for VMware Workstation Pro (Windows).
+A VMware LAN Segment PowerShell function for VMware Workstation Pro (Windows).
 
 ## Usage
 
